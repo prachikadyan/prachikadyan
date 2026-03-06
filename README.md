@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prachikadyan
 - 👀 I’m interested in data science and analysis and exploring new skills
-- 🌱 I’m currently learning data science 
+- 🌱 I have done graduation in Data Science
 - 💞️ I’m looking to collaborate on multiple tech companies
 - 📫 How to reach me prachikadyan03@gmail.com
 
